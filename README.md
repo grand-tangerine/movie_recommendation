@@ -2,15 +2,18 @@
 * * *
 
 ## 1. 개요
-  * 주연 배우, 감독, 키워드 등 영화의 수익 및 평점에 기여하는 피쳐를 파악한다
- * 영화 메타데이터, 개인 평점, sns 데이터 등을 활용하여 사용자가 시청하지 않은 아이템을 추천한다
+* 주연 배우, 감독, 키워드 등 영화의 흥행에 영향을 끼치는 피처를 파악한다
+* 흥행 성적과 개인평점의 상관관계를 알아본다
+* 영화 메타데이터, 개인 평점, sns 데이터 등을 활용하여 사용자가 시청하지 않은 아이템을 추천한다
 
 ## 2. 프로젝트 기간
 * 2020.03 ~
 
 ## 3. 활용 데이터
-* The Movies Dataset
 
+
+
+* The Movies Dataset
 
 |title|colnum|
 |----|-----|
@@ -21,19 +24,16 @@
 |movies_metadata.csv |24 columns
 |ratings.csv |4 columns
 |ratings_small.csv  |4 columns  
-  
-    
-      
+
 
 * TMDB 5000 Movie Dataset  
-   
-      
-         
-
+     
 |title|colnum|
 |----|-----|
 |tmdb_5000_credits.csv | 4 columns
-|tmdb_5000_movies.csv |20 columns  
+|tmdb_5000_movies.csv |20 columns       
+
+
 
 
 ## 4. Skillset
